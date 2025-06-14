@@ -24,7 +24,7 @@ The Smart Recipe Generator is a full-stack web application that helps users gene
 
 * **Frontend**: React (Vite), Axios
 * **Backend**: Laravel API
-* **Database**: MySQL (or SQLite)
+* **Database**: MySQL
 * **AI Integration**: OpenRouter API for recipe generation
 * **Styling**: CSS Modules per component
 
