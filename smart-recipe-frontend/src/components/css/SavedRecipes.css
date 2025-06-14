@@ -1,0 +1,32 @@
+.saved-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.saved-card {
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+
+.saved-card h3 {
+  margin-top: 15px;
+  margin-bottom: 8px;
+  color: #222;
+}
+
+.saved-card ul {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.saved-card li {
+  margin-bottom: 6px;
+  color: #444;
+  line-height: 1.5;
+}
+
