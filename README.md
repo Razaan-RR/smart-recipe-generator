@@ -33,7 +33,13 @@ The Smart Recipe Generator is a full-stack web application that helps users gene
 ### AI Usage
 
 * The recipe generation is powered by an AI model through the OpenRouter API.
+
 * Users provide ingredients, and the AI model is prompted to return a full recipe including preparation steps.
 * The generated recipe is then displayed and optionally stored in the database for later use.
 
 ---
+![Screenshot 2025-06-14 165757](https://github.com/user-attachments/assets/43bbdcc4-55e5-4935-9e8a-c18f21c282a7)
+
+![Screenshot 2025-06-14 165945](https://github.com/user-attachments/assets/f652d5de-175c-4d92-afc1-0df2d49ec800)
+
+![Screenshot 2025-06-14 170203](https://github.com/user-attachments/assets/824f480f-a2ac-4389-b3de-c25991a1cf4b)
